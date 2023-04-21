@@ -7,7 +7,7 @@ atvidade1 topicos
 int main ( ){
 		float salario, aumento, salario_final;
 		printf("* Empresa: CarPneus\n");	
-		printf("* Ra: 201540155\n");
+		printf("* CPF: 201540155\n");
 		printf("* Nome: Luan de Souza Mendonca\n");
 		printf("------------------------------\n");
 		printf("Informe seu salario:");
